@@ -1,1 +1,1 @@
-# DataWayfindingExperimentSimulationZollverein
+# Zollverein Wayfinding Dataset
